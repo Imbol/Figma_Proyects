@@ -2,7 +2,13 @@
 _Este proyecto fue desarrollado para una empresa especializada en la creación de juegos de casino y en la gestión de máquinas de juego, optimizando su administración y control operativo._<br>
 ![Logo Smol+](https://github.com/user-attachments/assets/5a46e1c7-915b-4c4b-84c8-1d90f3aed7f9)
 
-<p>Este proyecto se centra en el diseño de la interfaz de una página web destinada a la administración y regulación de máquinas de casinos. Además, incluye herramientas para la generación de informes exigidos por Coljuegos, garantizando el cumplimiento de los requisitos normativos.</p>
+<p>
+  Este proyecto se centra en el diseño de la interfaz de una página web destinada a la administración y regulación de máquinas de    casinos. Además, incluye herramientas para la generación de informes exigidos por Coljuegos, garantizando el cumplimiento de los   requisitos normativos.
+</p>
+
+<p>
+  Este proyecto cuenta con un diseño sencillo y sobrio, cumpliendo con los requisitos establecidos por la empresa solicitante. Se    utilizó el color azul como tono principal, priorizando una interfaz simple e intuitiva para garantizar una experiencia de       usuario   fluida y accesible.
+</p>
 
 👇 Click en el siguiente botón para ver el Figma
 <p align=center">
