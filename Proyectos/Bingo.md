@@ -1,7 +1,13 @@
 # Bingo
 _Este proyecto fue desarrollado para una empresa especializada en la creación de juegos de apuestas en línea, enfocándose en ofrecer una experiencia de usuario segura._<br>
 
-<p>Este proyecto se centra en el diseño de la interfaz de una página web para el juego en línea de bingo. La plataforma permite la compra de cartones, la repetición de partidas y la visualización de los cartones ganadores, brindando una experiencia interactiva y fluida para los usuarios..</p>
+<p>
+  Este proyecto se centra en el diseño de la interfaz de una página web para el juego en línea de bingo. La plataforma permite la    compra de cartones, la repetición de partidas y la visualización de los cartones ganadores, brindando una experiencia              interactiva y fluida para los usuarios.
+</p>
+<p>
+  Este proyecto aún está en desarrollo y consiste en el rediseño de una interfaz sencilla del juego que se encuentra en uso.
+  En el siguiente botón se encuentra el documento y el diseño a modificar 👉 <a href="https://www.figma.com/design/1zR14UbKmfx3hXbEyW0Dvv/BINGO-SMOL-WEB-3-Cambio-de-color?node-id=0-1&t=PUVpe83wjSxgYMPU-1" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
 
 👇 Click en el siguiente botón para ver el Figma
 <p align=center">
