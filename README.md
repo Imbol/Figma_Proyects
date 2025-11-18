@@ -28,10 +28,15 @@
 <img width="1398" height="537" alt="image" src="https://github.com/user-attachments/assets/cc03cec5-d94d-4f08-a970-a45188f8a6b7" />
 
 
-
-
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño plataformas administrativas***
 ![Trasladar Máquina](https://github.com/user-attachments/assets/273127b8-56c0-4c95-8ec5-c4a59946b4e2)
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño de juegos online***
 ![En juego](https://github.com/user-attachments/assets/33e82995-6e8e-40cb-b434-994483aee04e)
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Proyectos personales***
 ![Vista 6](https://github.com/user-attachments/assets/b938c1d5-df19-498d-b2eb-cccf93fa9258)
 ![Vista 8](https://github.com/user-attachments/assets/430bb832-8005-4f05-a09f-6dfc5cdaa245)
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño de facturación***
 ![Letter - 2](https://github.com/user-attachments/assets/b1f7bc86-0984-4ef9-b04a-d749bebb125e)
