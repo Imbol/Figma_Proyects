@@ -9,6 +9,27 @@
 🎰Most of these projects have been developed for a company specialized in the creation of bet games and in the regulation of casino machines, ensuring their correct operation and regulatory compliance. <br>
 💌 You can contact me at <a href="mailto:imbolmaribel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> and <a href="https://www.linkedin.com/in/maribel-imbol-a3733724a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> I'll try to respond as soon as possible.
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Dirección Visual***
+<img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/b8d81182-7c98-46af-99ae-fd895a3c1ae6" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Whiteboard***
+<img width="600" height="618" alt="image" src="https://github.com/user-attachments/assets/0991301a-46e7-46a6-a7bf-b86d7a1986f7" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***User Personas***
+<img width="1310" height="314" alt="image" src="https://github.com/user-attachments/assets/2cc61430-a212-4875-b91f-b9d60e2e256a" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***User Journey***
+<img width="1292" height="520" alt="image" src="https://github.com/user-attachments/assets/ad823d15-7ce5-4144-9370-8afc44b5bc2d" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Prototipo***
+<img width="1333" height="446" alt="image" src="https://github.com/user-attachments/assets/44a4d800-dc79-4ac4-8328-43f6d3cfb08c" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño***
+<img width="1398" height="537" alt="image" src="https://github.com/user-attachments/assets/cc03cec5-d94d-4f08-a970-a45188f8a6b7" />
+
+
+
+
 ![Trasladar Máquina](https://github.com/user-attachments/assets/273127b8-56c0-4c95-8ec5-c4a59946b4e2)
 ![En juego](https://github.com/user-attachments/assets/33e82995-6e8e-40cb-b434-994483aee04e)
 ![Vista 6](https://github.com/user-attachments/assets/b938c1d5-df19-498d-b2eb-cccf93fa9258)
