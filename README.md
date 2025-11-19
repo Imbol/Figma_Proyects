@@ -29,14 +29,14 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Rediseños***
-Antes
+## <width="25px">&nbsp;***Antes***
 <img width="892" height="636" alt="image" src="https://github.com/user-attachments/assets/e4f98039-dd78-4c10-9957-bf85bf70883e" />
-Despues
+## <width="25px">&nbsp;***Despues***
 ![En juego](https://github.com/user-attachments/assets/33e82995-6e8e-40cb-b434-994483aee04e)
 
-Antes
+## <width="25px">&nbsp;***Antes***
 <img width="878" height="627" alt="image" src="https://github.com/user-attachments/assets/ab10c2f0-dc99-43e3-b069-9791faa68ea5" />
-Despues
+## <width="25px">&nbsp;***Despues***
 <img width="1000" height="564" alt="image" src="https://github.com/user-attachments/assets/2a0afe24-badb-4504-bf46-8d524f9966f9" />
 
 
