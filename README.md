@@ -28,15 +28,32 @@
 <img width="1398" height="537" alt="image" src="https://github.com/user-attachments/assets/cc03cec5-d94d-4f08-a970-a45188f8a6b7" />
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño plataformas administrativas***
-![Trasladar Máquina](https://github.com/user-attachments/assets/273127b8-56c0-4c95-8ec5-c4a59946b4e2)
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño de juegos online***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Rediseños***
+Antes
+<img width="892" height="636" alt="image" src="https://github.com/user-attachments/assets/e4f98039-dd78-4c10-9957-bf85bf70883e" />
+Despues
 ![En juego](https://github.com/user-attachments/assets/33e82995-6e8e-40cb-b434-994483aee04e)
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Proyectos personales***
+Antes
+<img width="878" height="627" alt="image" src="https://github.com/user-attachments/assets/ab10c2f0-dc99-43e3-b069-9791faa68ea5" />
+Despues
+<img width="1000" height="564" alt="image" src="https://github.com/user-attachments/assets/2a0afe24-badb-4504-bf46-8d524f9966f9" />
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño de juegos online***
+<img width="1081" height="573" alt="image" src="https://github.com/user-attachments/assets/de6fa531-9226-4cbc-a9f1-cfc714a4dd71" />
+<img width="705" height="576" alt="image" src="https://github.com/user-attachments/assets/b361ebcf-3187-4230-a00a-929dcfdbc2ae" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseños mobile***
 ![Vista 6](https://github.com/user-attachments/assets/b938c1d5-df19-498d-b2eb-cccf93fa9258)
 ![Vista 8](https://github.com/user-attachments/assets/430bb832-8005-4f05-a09f-6dfc5cdaa245)
+<img width="281" height="633" alt="image" src="https://github.com/user-attachments/assets/05179714-9cf5-4547-a1d5-e620fba0df4e" />
+<img width="291" height="644" alt="image" src="https://github.com/user-attachments/assets/c6948817-5636-44a8-9a04-40657e047938" />
+<img width="281" height="631" alt="image" src="https://github.com/user-attachments/assets/682fb4c0-18d8-4b2c-94c2-561a5d6b8a19" />
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño plataformas administrativas***
+![Trasladar Máquina](https://github.com/user-attachments/assets/273127b8-56c0-4c95-8ec5-c4a59946b4e2)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño de facturación***
 ![Letter - 2](https://github.com/user-attachments/assets/b1f7bc86-0984-4ef9-b04a-d749bebb125e)
