@@ -45,7 +45,7 @@
 <img width="705" height="576" alt="image" src="https://github.com/user-attachments/assets/b361ebcf-3187-4230-a00a-929dcfdbc2ae" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseños mobile***
-![Vista 6](https://github.com/user-attachments/assets/b938c1d5-df19-498d-b2eb-cccf93fa9258)
+<img width="294" height="636" alt="image" src="https://github.com/user-attachments/assets/e4553c7d-21cf-4682-a329-e7dda07da687" />
 <img width="292" height="630" alt="image" src="https://github.com/user-attachments/assets/e45d8d70-bd06-47e1-a0ff-fc77ea741140" />
 <img width="290" height="630" alt="image" src="https://github.com/user-attachments/assets/85257472-8aca-4fb8-9930-36c07db3e5cc" />
 <img width="291" height="628" alt="image" src="https://github.com/user-attachments/assets/556e0f05-955f-43bc-b94c-4df801318cd0" />
