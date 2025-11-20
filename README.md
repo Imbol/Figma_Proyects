@@ -61,7 +61,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Diseño plataformas administrativas***
 <img width="1002" height="626" alt="image" src="https://github.com/user-attachments/assets/0a89d16a-8afc-4d87-bc5f-72129d19c959" />
 <img width="978" height="610" alt="image" src="https://github.com/user-attachments/assets/50b16254-924c-44cd-b5ad-0d1f08711edd" />
-![Trasladar Máquina](https://github.com/user-attachments/assets/273127b8-56c0-4c95-8ec5-c4a59946b4e2)
+<img width="739" height="627" alt="image" src="https://github.com/user-attachments/assets/c537d87c-595f-45e6-bad9-2563a7666fad" />
 <img width="1310" height="488" alt="image" src="https://github.com/user-attachments/assets/7944c119-bb74-4f0a-8f49-b9fb7f7744ea" />
 <img width="749" height="633" alt="image" src="https://github.com/user-attachments/assets/5d2ed8f6-ced7-490f-bde9-a25cecc04fc0" />
 
