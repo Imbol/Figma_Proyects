@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About my projects***
 
-💡 I have more than a year of experience as a UX/UI designer. <br>
+💡 I have two year of experience as a UX/UI designer. <br>
 👩‍💻 I create creative and intuitive interfaces based on user needs. <br>
 🎰Most of these projects have been developed for a company specialized in the creation of bet games and in the regulation of casino machines, ensuring their correct operation and regulatory compliance. <br>
 💌 You can contact me at <a href="mailto:imbolmaribel@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> and <a href="https://www.linkedin.com/in/maribel-imbol-a3733724a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> I'll try to respond as soon as possible.
